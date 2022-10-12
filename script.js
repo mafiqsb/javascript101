@@ -4,6 +4,10 @@
 
 
 
+////////////////////////////////////////////////////////////////
+
+
+
     //if, else if, else
 
     // if(condition){
@@ -39,6 +43,11 @@
     // }else {
     //     console.log('Good Job')
     // }
+
+
+
+/////////////////////////////////////////////////////////////////////
+
 
 
 
@@ -80,10 +89,16 @@
     //     console.log(z)
 
 
+    // let var_name = 'Ali';
+    // let var_name2 = 'belum'
+
+    // console.log('hello ' + var_name + ' dah makan ke? ' + var_name2)
 
 
 
 
+
+////////////////////////////////////////////////////////////////
 
 
 
@@ -129,7 +144,7 @@
 
     // dot notation
     
-    // console.log(object)
+    // console.log(object.name)
 
    
     
@@ -141,6 +156,13 @@
 
     // console.log(object)
 
+
+
+
+
+
+
+////////////////////////////////////////////////////////////////
 
 
 
@@ -158,6 +180,7 @@
 
 
 
+////////////////////////////////////////////////////////////////
 
 
 
@@ -187,11 +210,7 @@
 
     // square(2)
 
-    // let var_name = 'Ali';
-    // let var_name2 = 'belum'
-
-    // console.log('hello ' + var_name + ' dah makan ke? ' + var_name2)
-
+    
 
     function tekan() {
         document.getElementById('show').innerHTML = "Hello Javascript"
